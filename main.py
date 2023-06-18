@@ -13,7 +13,7 @@ def printhi(name):
 if __name__ == '__main__':
     printhi('PyCharm    ')
 
-    print("я дуралей&&&&&&&&234234234234&&&&")
+    print("я дуралей&&&&&&&&234234234234&&&&!!!!!!!!!!!")
 
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
